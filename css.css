@@ -1,1 +1,10 @@
-css
+body {
+	background: grey;
+}
+
+td {
+	height: 100px;
+	width: 100px;
+
+	border: solid 2px black;
+}
